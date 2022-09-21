@@ -31,4 +31,7 @@ workflows:
     example-workflow:
       jobs:
         - android/build:
-            executor: android/android-machine 
+            executor: 
+              name: android/android-machine
+              resource-class: large
+              tag: 2021.10.1
