@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880941780684",
+    "project_id": "circleci-practise",
+    "storage_bucket": "circleci-practise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880941780684:android:1845f1018303a3b9d83c69",
+        "android_client_info": {
+          "package_name": "com.epos.circlecipractise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880941780684-4hdt02mh3ak0v0vc4ijb56hjq09hhu83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHd5yEKpNKD2M00FHNh_53OxSAs3GcMiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880941780684-4hdt02mh3ak0v0vc4ijb56hjq09hhu83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
