@@ -69,4 +69,4 @@ workflows:
            - build_test
          filters:
            branches:
-             only: import_circle_ci_demo
+             only: circleci-project-setup
